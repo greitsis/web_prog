@@ -1,0 +1,51 @@
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    text-align: center;
+    padding: 5px;
+}
+
+h2 {
+	text-align: center;
+	color: #0066CC;
+}
+
+.group {
+	background-color: #FF0033;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.student_name {
+    text-align: left;
+}
+
+.number {
+    text-align: right;
+    padding-right: 1px;
+}
+
+/*.month {
+	width: 70px;
+}*/
+
+.date {
+    width: 60px;
+}
+
+.sign {
+    color: grey;
+    text-align: left;
+    font-size: 10px;
+}
+
